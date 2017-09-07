@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to the Ardrey Kell Maker Club's Website!
 
-You can use the [editor on GitHub](https://github.com/ArdreyKellMakerClub/ardreykellmakerclub.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Anything in here is currently temporary, and is subject to change.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Honestly, what should i put in here?
 
-### Markdown
+### Sections of Maker's Club
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are three sections to Ardrey Kell's Maker Club
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Software
+-Handles the software side of maker's club
+# Hardware
+-Handles the hardware of the club
+# Systems
+-Handles the systems of the club
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details, visit each page somewhere on the site
 
-### Jekyll Themes
+### CHARLES WHAT ELSE DO WE NEED TO PUT
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArdreyKellMakerClub/ardreykellmakerclub.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+BLARG
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+FIND CHARLES OR DANIEL OR SOMEONE ELSE SMART
