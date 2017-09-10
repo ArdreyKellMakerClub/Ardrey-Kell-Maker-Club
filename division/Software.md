@@ -6,14 +6,18 @@
 4. Only be nice to the other sections if you want to. We don't need them for anything other than the physical aspects of the club.
 5. I don't know what to put here but we need 5 rules so here.
 
-## Section Stuff
+### Section Stuff
 
 The Software Division includes...
 
 1.Coding things for other divisions
+
 2.Coding things because you can
+
 3.Coding things that annoy the other divisions
+
 4.Coding things that don't ever work because logic
+
 5.Coding things that don't make any sense, but still work
 
 ## Extra Information:
