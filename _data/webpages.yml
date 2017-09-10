@@ -4,6 +4,9 @@ toc:
 - title: Home
   url: /
 
+- title: Calendar
+  url: /calendar
+
 - title: Divisions
   url: /division/Divisions
   sublinks:
@@ -31,3 +34,9 @@ toc:
       url: /bio/nit
     - title: Communications
       url: /bio/dah
+
+- title: About Us
+  url: /404
+  
+- title: Contact
+  url: /contact
