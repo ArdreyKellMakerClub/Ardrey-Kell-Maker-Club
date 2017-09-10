@@ -17,7 +17,7 @@ Michael Lee
 
     email: <michael.e.lee@msn.com>
     
-    Discord: Emeraldz54 \#3875
+    Discord: Emeraldz54 #3875
     
     Skype: Emeraldz54
     
@@ -42,6 +42,6 @@ Charles Yang
 
     email: <charlesfengyang@gmail.com>
     skype: daedalus1235
-    discord: daedalus_II \#3985
+    discord: daedalus_II #3985
     steam: Tetrakis
     github: @daedalus1235
