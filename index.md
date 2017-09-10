@@ -25,7 +25,7 @@ subtitle: Welcome!
 
 ---
 
-## Sections:
+## [Divisions](division/Divisions)
 ### [Software](/division/Software "codes and programmes!")
 We do software stuff. Michael is in charge of this.
 ### [Hardware](/division/Hardware "building things!")
@@ -35,17 +35,9 @@ We make Software and Hardware agree with each other. Vatsal is in charge of this
 
 ---
 
-## Officers:
+## [Officers](/bio/Officer)
 We run the club. Click on our names to learn more about us!
-### President: [Charles Yang](/bio/chy "if you're reading this, hi!")
-### VP Software: [Michael Lee](/bio/mil "I MAKE WEBSITE WORK SOMETIMES")
-### VP Systems: [Vatsal Varma](/bio/vav "made a chess robot. nuf said.")
-### VP Hardware: [Tristan Wheeler](/bio/trw "still hasn't responded to my emails....")
-### Secretary/ICC Rep: [Justin Toledo, aka Smalls](/bio/jut "idk what to write here but he plays the tuba")
-### Treasurer: [Nikhil Tokala](bio/nit "he's ok at math so he's doing finances")
-### Communications: [Daniel Hwang](/bio/dah "he talks. a LOT.")
 
 ---
 
-## [Calendar](/calendar.html "MICHAEL CHANGE THIS INTO AN EMBEDDED CALLENDAR AND MOVE IT UP")
-THIS IS FOR DANIEL BECAUSE HE NEEDS SOMEWHERE TO WRITE THINGS I SWEAR IF YOU BREAK THE WEBSITE I WILL DESTROY YOUR LIFE
+## [Calendar](/calendar)
