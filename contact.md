@@ -15,7 +15,11 @@ title: Contact us!
 
 Michael Lee
 
-    email: <>
+    email: <michael.e.lee@msn.com>
+    
+    Discord: Emeraldz54 #3875
+    
+    Skype: Emeraldz54
     
     github: @Emeraldz54
     
