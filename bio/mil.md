@@ -4,7 +4,6 @@ subtitle: VP Software
 layout: bio
 ---
 
-If you need to go back to the main page, [click here](/index.md).
 
 Hi!
 
