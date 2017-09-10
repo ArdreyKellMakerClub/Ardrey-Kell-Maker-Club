@@ -35,7 +35,7 @@ We make Software and Hardware agree with each other. Vatsal is in charge of this
 
 ---
 
-## [Officers](/bio/Officer)
+## [Officers](/bio/Officers)
 We run the club. Click on our names to learn more about us!
 
 ---
