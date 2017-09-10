@@ -10,6 +10,7 @@ If you need to go back to the main page, [click here](/index.md).
 4. Only be nice to the other sections if you want to. We don't need them for anything other than the physical aspects of the club.
 5. I don't know what to put here but we need 5 rules so here.
 
+
 ## Focus of the Section:
 
 The Software section is in charge of the coding of pretty much anything and everything for the club. That includes...
