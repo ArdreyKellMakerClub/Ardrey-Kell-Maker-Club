@@ -4,8 +4,8 @@ title: Contact us!
 ## General Concerns
 
     email: <akmakerclub@gmail.com>
-    
     github: @akmakerclub
+    social media: tba by *daniel*
     
 ---
 
@@ -15,19 +15,23 @@ title: Contact us!
 
 Michael Lee
 
-    email:
+    email: <>
+    
+    github: @Emeraldz54
     
 ### Systems
 
 Vatsal Varma
 
-    email:
+    email:<varma.vatsal@gmail.com>
+    
+    github: @Tornado145
     
 ### Hardware
 
 Tristan Wheeler
 
-    email:
+    email: <tristandwheeler@gmail.com>
     
 ### President
 Charles Yang
