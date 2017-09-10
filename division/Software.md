@@ -1,7 +1,3 @@
-# Welcome to the AK Maker's Club Software Page!
-
-If you need to go back to the main page, [click here](/index.md).
-
 ## Section Specific Rules:
 
 1. Please refrain from doing anything stupid on the computers. Please. We like this club.
@@ -26,7 +22,6 @@ Coding um... yea we will do that.
 You will need:
 
 A flash drive
-
 
 A Brain
 
