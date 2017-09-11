@@ -5,9 +5,12 @@ Typically everyone will need a computer, a brain and the ability and motivation 
 # Section Specific Rules:
 
 Building a CNC machine is not an easy task, especially at the scale that I plan to take it to so some ground rules will be needed.
-- Those who join are expected to abide by the rules presented in the constitution
-- They must not fool around.
+
+Those who join are expected to abide by the rules presented in the constitution
+
+They must not fool around.
 
 ## Materials Needed:
-- Computer
-- Paper/Pencil
+Computer
+
+Paper/Pencil
