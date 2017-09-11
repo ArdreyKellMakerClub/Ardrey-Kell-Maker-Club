@@ -1,3 +1,8 @@
+---
+title: Software Division
+layout: Division
+---
+
 ## Section Overview
 
 The Software Division is in charge of all the coding and programing that allows for interaction between people and the machine iteself. Unlike Systems, we don't have to worry about making the Hardware work with the Software, but instead making sure the Software works. If you have no prior knowledge, don't worry. We'll get you caught up. We will be using C# to code, however, if by popular demand, we will shift towards Java instead. Be ready for hours of frustration and anger, as it will be difficult to code things that work logically. 
