@@ -1,5 +1,6 @@
 ---
 title: Software Division
+layout: Divisions
 subtitle: We Code Unlogical Things!
 ---
 
