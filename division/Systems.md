@@ -1,6 +1,6 @@
 ---
 title: Systems
-layout: Divisions
+layout: division
 subtitle: We Combine Software and Hardware!
 ---
 
