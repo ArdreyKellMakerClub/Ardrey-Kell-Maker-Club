@@ -2,4 +2,10 @@
 title: Calendar
 layout: calendar
 ---
-[//]: # daniel only touch this page and nothing else. only edit within the github page, and not using the app. if you don't you WILL screw something up and michael and I will be upset
+
+# Important Dates:
+
+Daniel write something here so that this page doesn't look like it's empty with only a calendar.
+Please. This page even has it's own tab in the main navbar.
+
+At least make it look somewhat nice.
