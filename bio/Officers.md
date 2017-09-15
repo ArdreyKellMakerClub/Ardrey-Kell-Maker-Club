@@ -3,7 +3,7 @@ title: Officers
 subtitle: Who runs this club?
 layout: bio
 ---
-### Club Sponsor
+### Club Sponsor:
 [Mrs.Robinson](/bio/rob "I know some things")
 ### President: 
 [Charles Yang](/bio/chy "I ALWAYS BREAK THE WEBSITE")
