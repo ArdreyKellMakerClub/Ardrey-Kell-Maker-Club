@@ -5,6 +5,7 @@ title: Contact us!
 
     email: <akmakerclub@gmail.com>
     github: @akmakerclub
+    Remind  @8ha6a8
     social media: tba by *daniel*
     
 ---
