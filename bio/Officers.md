@@ -14,7 +14,7 @@ layout: bio
 ### Secretary/ICC Rep: 
 [Justin Toledo, aka Smalls](/bio/jut "idk what to write here but he plays the tuba")
 ### Treasurer: 
-[Nikhil Tokala](bio/nit "he's ok at math so he's doing finances")
+[Nikhil Tokala](/bio/nit "he's ok at math so he's doing finances")
 ### Communications: 
 [Daniel Hwang](/bio/easteregg#404 "he talks. a LOT.")
 
