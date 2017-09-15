@@ -12,7 +12,7 @@ layout: bio
 ### VP Hardware: 
 [Tristan Wheeler](/bio/trw "still hasn't responded to my emails....")
 ### Secretary/ICC Rep: 
-[Justin Toledo, aka Smalls](/bio/jut "idk what to write here but he plays the tuba")
+[Justin Tulino](/bio/jut "idk what to write here but he plays the tuba")
 ### Treasurer: 
 [Nikhil Tokala](/bio/nit "he's ok at math so he's doing finances")
 ### Communications: 
