@@ -3,10 +3,12 @@ title: Officers
 subtitle: Who runs this club?
 layout: bio
 ---
+### Club Sponsor
+[Mrs.Robinson](/bio/rob "I know some things")
 ### President: 
-[Charles Yang](/bio/chy "if you're reading this, hi!")
+[Charles Yang](/bio/chy "I ALWAYS BREAK THE WEBSITE")
 ### VP Software: 
-[Michael Lee](/bio/mil "I MAKE WEBSITE WORK SOMETIMES")
+[Michael Lee](/bio/mil "I FIX WHAT CHARLES BREAKS")
 ### VP Systems: 
 [Vatsal Varma](/bio/vav "made a chess robot. nuf said.")
 ### VP Hardware: 
