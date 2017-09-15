@@ -9,7 +9,7 @@ title: Contact us!
     
 ---
 
-## Head of Divisions
+## Heads of Divisions
 
 ### Software
 
@@ -41,7 +41,11 @@ Tristan Wheeler
 Charles Yang
 
     email: <charlesfengyang@gmail.com>
+    
     skype: daedalus1235
+    
     discord: daedalus_II #3985
+    
     steam: Tetrakis
+    
     github: @daedalus1235
