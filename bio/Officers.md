@@ -6,7 +6,7 @@ layout: bio
 ### Club Sponsor:
 [Mrs.Robinson](/bio/rob "I know some things")
 ### President: 
-[Charles Yang](/bio/chy "I ALWAYS BREAK THE WEBSITE")
+[Charles Yang](/bio/chy "KEEPS BREAKING THE WEBSITE")
 ### VP Software: 
 [Michael Lee](/bio/mil "I FIX WHAT CHARLES BREAKS")
 ### VP Systems: 
@@ -18,6 +18,6 @@ layout: bio
 ### Treasurer: 
 [Nikhil Tokala](/bio/nit "he's ok at math so he's doing finances")
 ### Communications: 
-[Daniel Hwang](/bio/dah "he talks. a LOT.")
+[Daniel Hwang](/bio/dah "std::exception missing rhetoric.")
 
 [//]: # again, michael, make list and links
