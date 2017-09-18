@@ -5,13 +5,21 @@ subtitle: Welcome!
 
 # Welcome to Ardrey Kell's Maker Club!
 
-### Things missing from announcement
+### Morning Announcements Information
 
 because the announcement people cut out half of our announcement, including room, i thought it would be fitting to put the unabridged announcement below
 
-> Do you think rockets and drones are cool? Do you want to learn how to make a website or code a video game? Do you like working with others to solve challenging problems? From video games to drones to 3D printers, you join others in making amazing things at the AK Maker Club. Come to the interest meeting on Wednesday, September 20th in Mrs. Robinson’s room, B303 to see how we made an omni-directional robot, a text based rpg, and maybe even a working chess robot.
+> Do you think rockets and drones are cool?
 
-## REQUIRED FORM TO DO IF YOU WANT TO BE IN CLUB
+>Do you want to learn how to make a website or code a video game?
+
+>Do you like working with others to solve challenging problems?
+
+>From video games to drones to 3D printers, you join others in making amazing things at the AK Maker Club.
+
+>Come to the interest meeting after school on Wednesday, September 20th in Mrs. Robinson’s room, B303 to see how we made an omni-directional robot, a text based rpg, and maybe even a working chess robot.
+
+### REQUIRED FORM AT INTEREST MEETING
 
 <button class="button-save large"> [Club Sign Up Sheet](https://goo.gl/forms/OLAcnNZqATJGFplv2 "Please Fill This Out") </button>
 
