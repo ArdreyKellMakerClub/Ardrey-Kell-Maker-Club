@@ -19,5 +19,3 @@ layout: bio
 [Nikhil Tokala](/bio/nit "he's ok at math so he's doing finances")
 ### Communications: 
 [Daniel Hwang](/bio/dah "std::exception missing rhetoric.")
-
-[//]: # again, michael, make list and links
