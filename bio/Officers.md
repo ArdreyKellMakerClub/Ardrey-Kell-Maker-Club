@@ -8,11 +8,11 @@ layout: bio
 ### President: 
 [Charles Yang](/bio/chy "KEEPS BREAKING THE WEBSITE")
 ### VP Software: 
-[Michael Lee](/bio/mil "I FIX WHAT CHARLES BREAKS")
+[Michael Lee](/bio/mil "FIXES WHAT CHARLES BREAKS")
 ### VP Systems: 
 [Vatsal Varma](/bio/vav "made a chess robot. nuf said.")
 ### VP Hardware: 
-[Tristan Wheeler](/bio/trw "still hasn't responded to my emails....")
+[Tristan Wheeler](/bio/trw "Error 404: Tristan Still Not Found")
 ### Secretary/ICC Rep: 
 [Justin Tulino](/bio/jut "idk what to write here but he plays the tuba")
 ### Treasurer: 
