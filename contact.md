@@ -5,7 +5,7 @@ title: Contact us!
 
     email: <akmakerclub@gmail.com>
     github: @akmakerclub
-    Remind: Text @8ha6a8 to 81010
+    Remind: Text @akmaker to 81010
     Discord: https://discord.gg/agna7ey
     social media: tba by *daniel*
     
