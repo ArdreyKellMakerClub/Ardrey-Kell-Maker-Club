@@ -1,9 +1,9 @@
 ---
-title: Mrs. Robinson
+title: Unknown
 subtitle: Club Sponsor
 layout: bio
 ---
 
-Hi!
+THIS PAGE IS UNDER CONSTRUCTION.
 
-I know some things.
+WILL UPDATE WHEN WE GET A NEW SPONSOR.
