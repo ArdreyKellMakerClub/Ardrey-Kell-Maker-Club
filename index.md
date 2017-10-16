@@ -21,6 +21,6 @@ subtitle: Welcome!
 
 **Where can you find us?**
 
--In Mrs.Robinson's room, b3-something i don't remember only on some days that we meet or stuff.
+-Online as of right now. Because we don't have a club sponsor anymore.
 
 ---
