@@ -4,7 +4,7 @@ subtitle: Who runs this club?
 layout: bio
 ---
 ### Club Sponsor:
-[Mrs.Robinson](/bio/rob "I know some things")
+[UNDER CONSTRUCTION](/bio/rob "UNDER CONSTRUCTION")
 ### President: 
 [Charles Yang](/bio/chy "KEEPS BREAKING THE WEBSITE")
 ### VP Software: 
