@@ -21,6 +21,6 @@ subtitle: Welcome!
 
 **Where can you find us?**
 
--Online as of right now. Mrs. Robinson is no longer our sponsor.
+-Online as of right now. Mrs. Robinson is no longer our sponsor. :(
 
 ---
